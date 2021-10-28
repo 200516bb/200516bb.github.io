@@ -1,8 +1,8 @@
 # main links
 main:
-  \- title: "Home"
+  - title: "Home"
     url: https://200516bb.github.io/
-  \- title: "Category"
+  - title: "Category"
     url: https://200516bb.github.io/categories/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
