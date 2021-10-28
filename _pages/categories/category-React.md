@@ -1,6 +1,6 @@
 ---
 title: "React"
-permalink: /categories/react/
+permalink: /categories/React/
 layout: category
 author_profile: true
 taxonomy: React
